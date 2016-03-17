@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "KComing Soon..."
+title: "Coming Soon..."
 date: 2016-03-16
 categories:
 - Learning Proxmox VE
