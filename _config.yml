@@ -1,0 +1,26 @@
+# Site settings
+title: On the street / Saving the scene / From the forces of / Evil
+name: saving the scene from the forces of Evil
+url: "http://blog.9while9.com"
+email: rikgoldman@9while9.com
+description: Soon.
+baseurl: "" # the subpath of your site, e.g. /blog/
+twitter_username: 9_while_9
+github_username:  ghoulmann
+weibo_username:
+flickr_username: ghoulmann
+linkedin_username: rikgoldman
+lastfm_username: licheghoulmann
+facebook_username:
+duoshuo_username:
+baidushare_id:
+baidutongji_id:
+rss_url: "/feed.xml"
+logo_image: "/images/portrait-bw.png"
+# Build settings
+gems: [jekyll-paginate, jekyll-sitemap]
+markdown: kramdown
+highlighter: rouge
+permalink: /:title/
+paginate: 5
+paginate_path: page/:num
